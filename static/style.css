@@ -41,3 +41,8 @@ hr{
     white-space: pre-line;
 
 }
+
+.no-posts{
+    font-style: italic;
+    color: grey
+}
